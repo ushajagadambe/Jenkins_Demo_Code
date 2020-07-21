@@ -1,5 +1,5 @@
 package com.nacre.Jenkins_Demo_101;
-
+import java.util.Scanner;
 
 public class SumOfDigitOfGivenNumber 
 {
