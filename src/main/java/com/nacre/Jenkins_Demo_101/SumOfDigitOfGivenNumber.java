@@ -1,7 +1,7 @@
 package com.nacre.Jenkins_Demo_101;
 
 
-public class App 
+public class SumOfDigitOfGivenNumber 
 {
     public static void main( String[] args )
     {
@@ -17,7 +17,6 @@ public class App
 	}
 	System.out.println(sum);
 }
-
-    
-    }
 }
+    
+    
